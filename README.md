@@ -5,7 +5,7 @@
 - 📊 Fields of interest: Data Science, Blockchain Technologies, Robotics, Business, Trading
 - 🤝 I’m looking for an entry-level job/summer internship as Software Developer/Data Scientist/Business Analyst
 
-## Programming Languages
+## Programming
 [<img align="left" alt="Python" width="35px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />][python]
 [<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="Matlab" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][matlab]
