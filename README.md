@@ -1,4 +1,4 @@
-# Hi im Mikolaj, welcome to my Github!
+# Hi, I'm Mikolaj. Welcome to my Github!
 
 ## About
 - 🎓 2nd year BSc Mechanical Engineering student at Eindhoven University of Technology
