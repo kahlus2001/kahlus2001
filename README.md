@@ -16,11 +16,10 @@
 <br/>
 
 ## Tools
-[<img align="left" alt="Visual Studio Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][vs]
+<img align="left" alt="Visual Studio Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="PyCharm" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 
 <br/>
 <br/>
@@ -34,9 +33,10 @@
 <br/>
 
 ## Connect with me
-<img align="left" alt="kahlus2001 | Codewars" width="35px" src="https://docs.codewars.com/logo.svg" />
 <img align="left" alt="mikolaj_kahl | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
-<img align="left" alt="Mikołaj Kahl | Facebook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/1024px-Facebook_icon_2013.svg.png" />
+<img align="left" alt="mikolaj_kahl | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
+<img align="left" alt="Mikołaj Kahl | LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+
 
 
 [linkedin]: https://www.linkedin.com/in/mikolaj-kahl/
