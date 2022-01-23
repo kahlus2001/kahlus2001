@@ -33,9 +33,9 @@
 <br/>
 
 ## Connect with me
-[<img align="left" alt="Mikołaj Kahl | LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />]
+[<img align="left" alt="Mikołaj Kahl | LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="mikolaj_kahl | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
-[<img align="left" alt="mikolaj_kahl | Facebook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/480px-Facebook_logo_%28square%29.png" />][
+[<img align="left" alt="mikolaj_kahl | Facebook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/480px-Facebook_logo_%28square%29.png" />][facebook]
 
 
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
