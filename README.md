@@ -6,7 +6,7 @@
 - 🤝 I’m looking for an entry-level job/summer internship as Software Developer/Data Scientist/Business Analyst
 
 ## Programming Languages
-<img align="left" alt="Python" width="35px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />
+[<img align="left" alt="Python" width="35px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />][python]
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -38,7 +38,7 @@
 <img align="left" alt="Mikołaj Kahl | LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 
 
-
+[python]: https://www.python.org/about/
 [linkedin]: https://www.linkedin.com/in/mikolaj-kahl/
 [instagram]: https://www.instagram.com/mikolaj_kahl/
 [facebook]: https://www.facebook.com/mikolajkahl/
