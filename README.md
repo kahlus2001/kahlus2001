@@ -35,12 +35,9 @@
 
 ## Connect with me
 [<img align="left" alt="kahlus2001 | Codewars" width="35px" src="https://docs.codewars.com/logo.svg" />]
-[<img align="left" alt="mikolaj_kahl | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
-[<img align="left" alt="Mikołaj Kahl | Facebook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/1024px-Facebook_icon_2013.svg.png" />][facebook]
+<img align="left" alt="mikolaj_kahl | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
+<img align="left" alt="Mikołaj Kahl | Facebook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/1024px-Facebook_icon_2013.svg.png" />
 
-[terminal]: https://www.linuxjournal.com/content/linux-command-line-interface-introduction-guide
-[git]: https://git-scm.com/about
-[github]: https://github.com/about
 
 [linkedin]: https://www.linkedin.com/in/mikolaj-kahl/
 [instagram]: https://www.instagram.com/mikolaj_kahl/
