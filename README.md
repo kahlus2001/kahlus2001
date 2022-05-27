@@ -2,8 +2,7 @@
 
 ## About
 - 🎓 2nd year BSc Mechanical Engineering student at Eindhoven University of Technology
-- 📊 Fields of interest: Data Science, Blockchain Technologies, Robotics, Business, Trading
-- 🤝 I’m looking for an entry-level job/summer internship as Software Developer/Data Scientist/Business Analyst
+- 📊 Fields of interest: Data Analytics, Machine Learning, Blockchain Technologies, AI, Robotics, Business, Trading
 
 ## Programming
 [<img align="left" alt="Python" width="35px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />][python]
