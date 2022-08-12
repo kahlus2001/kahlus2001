@@ -1,7 +1,7 @@
 # Hi, I'm Mikolaj. Welcome to my Github!
 
 ## About
-- 🎓 2nd year BSc Mechanical Engineering student at Eindhoven University of Technology
+- 🎓 3rd year BSc Mechanical Engineering student at Eindhoven University of Technology
 - 📊 Fields of interest: Data Analytics, Machine Learning, Blockchain Technologies, AI, Robotics, Business, Trading
 
 ## Programming
