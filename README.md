@@ -1,9 +1,9 @@
 # Hi, I'm Mikolaj. Welcome to my Github!
 
 ## About
-- 🎓 3rd year BSc Mechanical Engineering student at Eindhoven University of Technology
-- 📊 Fields of interest: Automation Engineering,Trading Data Analytics, Machine Learning, Blockchain Technologies, AI, Robotics, Business
--  [Click here to view my CV.]
+- Junior Software Engineer
+- 🎓 Master Big Data Science - Kozminski University, B.Sc. Mechanical Engineering - Eindhoven University of Technology
+- 📊 Fields of interest: Software Automation Engineering, Data Science, Business Development
 
 ## Programming
 [<img align="left" alt="Python" width="35px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />][python]
@@ -35,9 +35,6 @@
 
 ## Connect with me
 [<img align="left" alt="Mikołaj Kahl | LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="mikolaj_kahl | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
-[<img align="left" alt="mikolaj_kahl | Facebook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/480px-Facebook_logo_%28square%29.png" />][facebook]
-
 
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
@@ -47,9 +44,6 @@
 [vscode]: https://code.visualstudio.com/
 [pycharm]: https://www.jetbrains.com/pycharm/
 [linkedin]: https://www.linkedin.com/in/mikolaj-kahl/
-[instagram]: https://www.instagram.com/mikolaj_kahl/
-[facebook]: https://www.facebook.com/mikolajkahl/
 [codewars]: https://www.codewars.com/users/kahlus2001
 [mysql]: https://www.mysql.com/
 [react]: https://reactjs.org/
-[Click here to view my CV.]: https://github.com/kahlus2001/kahlus2001/blob/main/CV.pdf
