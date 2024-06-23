@@ -58,5 +58,6 @@
 <br/>
 
 ## Connect with me
+[linkedin]: https://www.linkedin.com/in/mikolaj-kahl/
 [<img align="left" alt="Mikołaj Kahl | LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
