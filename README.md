@@ -9,7 +9,7 @@
 ## Languages
 
 ### Advanced
-[<img align="left" alt="Python" width="35px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />][python]
+[<img align="left" alt="Python" width="35px" src="https://www.svgrepo.com/show/376344/python.svg" />][python]
 [<img align="left" alt="Java" width="35px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />][java]
 [<img align="left" alt="MySQL" width="35px" src="https://thevideoanalyst.com/wp-content/uploads/2020/12/mysql.png" />][mysql]
 
